@@ -5,5 +5,5 @@ This project utilizes Python to generate data visualizations on data extracted f
 ![](https://github.com/dandersonghub/Data-Visualization/blob/main/Line%20Plot2.png)
 
 ### New Orleans Vacation Rentals
-![](https://github.com/dandersonghub/Data-Visualization/blob/main/NOLA_Map2.png)
+![](https://github.com/dandersonghub/Data-Visualization/blob/main/NOLA_Map3.png)
 
